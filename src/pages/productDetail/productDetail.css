@@ -1,0 +1,11 @@
+.ProductDetail {
+   
+}
+
+.ProductDetail .left-col {
+    flex-grow: 1;
+}
+
+.ProductDetail .right-col {
+    flex-grow: 2;
+}

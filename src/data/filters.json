@@ -1,0 +1,77 @@
+{
+    "color_hex_code": {
+      "black": "#000000",
+      "blue": "#0000ff",
+      "brown": "#663300",
+      "green": "#008000",
+      "grey": "#808080",
+      "orange": "#ffa500",
+      "pink": "#ff66ff",
+      "purple": "#800080",
+      "red": "#ff0000",
+      "white": "#ffffff",
+      "yellow": "#ffff00",
+      "maroon": "#622f40"
+    },
+    "filters": {
+      "category": [
+        "sweatshirt",
+        "hoodies",
+        "jacket",
+        "t-shirt",
+        "joggers",
+        "shirt"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "color": [
+        "pink",
+        "green",
+        "black",
+        "white",
+        "grey",
+        "blue",
+        "maroon",
+        "red",
+        "orange",
+        "brown",
+        "yellow"
+      ],
+      "design": [
+        "plain",
+        "chest printed",
+        "side printed",
+        "checked"
+      ],
+      "fabric": [
+        "fleece",
+        "single jersey",
+        "pique",
+        "twill",
+        "filafil",
+        "cotton linen",
+        "denim",
+        "oxford"
+      ],
+      "fit": [
+        "regular",
+        "slim",
+        "oversize"
+      ],
+      "neck": [
+        "round neck",
+        "hood",
+        "bomber",
+        "henley neck",
+        "v neck",
+        "mandarin collar",
+        "two piece collar"
+      ]
+    }
+  }
