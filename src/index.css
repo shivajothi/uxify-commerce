@@ -5,6 +5,18 @@ body {
   background: #fff;
 }
 
-.flex-container {
-  display: flex;
+ul,li,a,p,h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+  padding: 0;
 }
+
+a {
+  cursor: pointer;
+}
+
+.h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 12px 0;
+}
+
